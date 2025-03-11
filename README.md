@@ -1,1 +1,2 @@
 # news
+# academic mindset kas
